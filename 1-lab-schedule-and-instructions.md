@@ -9,13 +9,15 @@ We are running the computer lab virtually for SCIE2204.
 
 Your main instructor will be Matt Navarro <matthew.navarro@uwa.edu.au>
 
-We will be using R and you should all be able to complete these
-practicals from either home, using any web-based device (e.g. a tablet
+We will be using R via the ecocloud RStudio service, in the cloud.
+
+You should all be able to complete these practicals with an internet
+connection from either home, using any web-based device (e.g. a tablet
 or laptop) or using a university computer. If you are having issues
 accessing a computer please contact Matt.
 
-For each lab we will have an online video chat using Zoom during the
-scheduled lab times.
+To provide assistance and answer any questions during each lab - we will
+have an online video chat using Zoom during the scheduled lab times.
 
 To install and learn how to use Zoom - go to
 [Zoom\_instructions](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/2-zoom-instructions.md)
@@ -75,13 +77,12 @@ April Lab 3 assessment: Due 12pm 30th April
 
 ## Instructions for how to complete the first lab
 
-The first step is to start ecolcoud on your computer. Instructions on
-How-to-use-ecocloud -
-<https://github.com/UWA-SCIE2204-Marine-Systems/How-to-use-ecoloud>
+The first step is to start ecolcoud. Instructions on
+[How-to-use-ecocloud](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/3-how-to-use-ecocloud.md)
 
-The second step is to complete the exercises on the lab sheet -
-<https://github.com/UWA-SCIE2204-Marine-Systems/Catch-curve/blob/master/CatchCurveMarkdown.md>
+The first practical in on [Catch curve
+analysis](https://github.com/UWA-SCIE2204-Marine-Systems/Catch-curve/blob/master/CatchCurveMarkdown.md)
 
 Over the coming weeks you will be sent links to instructions on the
-second and third labs which are on marine reserves and oceanography
-respectively.
+second and third labs which are on marine reserves and biological
+oceanography respectively.

@@ -113,6 +113,9 @@ Before you do this - remember to save your .R script in your workspace
 folder and it will be ready waiting for you next time you start
 ecocloud.
 
+Go back to README
+[README](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/README.md)
+
 ## Additional background on R
 
 Here are some extra

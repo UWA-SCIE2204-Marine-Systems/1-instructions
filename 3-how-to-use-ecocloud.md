@@ -85,8 +85,8 @@ Click on the Green + at top left. </br>
 
 Create an R script.
 
-Save this script in your Working directory using a descriptive name e.g.
-“Catch curve.r”
+Save this script in your Working directory using a descriptive name
+e.g. “Catch curve.r”
 
 </br>
 
@@ -106,8 +106,9 @@ We recommend you create a seperate R script for every practial.
 **IMPORTANT**
 
 Once you have finished using RStudio on ecocloud for the day, please
-**Termiate** your session using the **Red** power button at the top
-right of the RStudio window.
+**Termiate** your session. To do this go back to the dashboard using
+this link <https://app.ecocloud.org.au/> and click on the **Terminate**
+button.
 
 Before you do this - remember to save your .R script in your workspace
 folder and it will be ready waiting for you next time you start
@@ -117,8 +118,7 @@ ecocloud.
 
 ## Additional background on R
 
-Here are some extra
-resources:
+Here are some extra resources:
 
 [Introduction-to-R-and-RStudio](https://github.com/UWA-SBS-Intro-to-R-RStudio-Tidyverse/Introduction-to-R-and-RStudio/blob/master/Introduction-to-R-and-RStudio.md)
 

@@ -119,7 +119,7 @@ We recommend you create a seperate R script for every practial.
 
 **IMPORTANT** 
 
-Once you have finished using RStudio on ecocloud for the day, please **Termiate** your session using the **Red** power button at the top right of the RStudio window. 
+Once you have finished using RStudio on ecocloud for the day, please **Termiate** your session. To do this go back to the dashboard using this link <https://app.ecocloud.org.au/> and click on the **Terminate** button. 
 
 Before you do this - remember to save your .R script in your workspace folder and it will be ready waiting for you next time you start ecocloud.
 

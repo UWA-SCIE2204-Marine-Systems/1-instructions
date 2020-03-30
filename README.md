@@ -6,5 +6,5 @@
 
 [3-how-to-use-ecocloud](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/3-how-to-use-ecocloud.md)
 
-The first practical in on [Catch curve analysis](https://github.com/UWA-SCIE2204-Marine-Systems/Catch-curve/blob/master/CatchCurveMarkdown.md)
+The first practical is on [Catch curve analysis](https://github.com/UWA-SCIE2204-Marine-Systems/Catch-curve/blob/master/CatchCurveMarkdown.md)
 

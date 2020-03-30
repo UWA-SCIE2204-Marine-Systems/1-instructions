@@ -39,12 +39,14 @@ To install and learn how to use Zoom - go to
 
   - Lab 1 (Catch curve) Stream C: 3rd April 14-16
 
-  - Lab 2 (Marine reserves) Stream A: 7th April 9-11
+  - Lab 2 (Marine reserves) Stream A: TBD \*\*\*\*\*\*\*\*\*rescheduling
+    due to extra tuition free week
 
-  - Lab 2 (Marine reserves) Stream B: 8th April 9-11
+  - Lab 2 (Marine reserves) Stream B: TBD \*\*\*\*\*\*\*\*\*rescheduling
+    due to extra tuition free week
 
-  - Lab 2 (Marine reserves) Stream C: 9th April 8-10 \*\*\*\*\*\*Note
-    that this lab was rescheduled to avoid clash with Good Friday\!\!\!
+  - Lab 2 (Marine reserves) Stream C: TBD \*\*\*\*\*\*\*\*\*rescheduling
+    due to extra tuition free week
 
   - Lab 3 (Oceanography) Stream c: 21st April 9-11
 
@@ -83,8 +85,9 @@ The quizzes will be on LMS.
 
 The quiz deadlines are as follows:
 
-Lab 1 assessment: Due 12pm 9th April Lab 2 assessment: Due 12pm 16th
-April Lab 3 assessment: Due 12pm 30th April
+Lab 1 assessment: Due 12pm 9th April Lab 2 assessment:
+TBD\*\*\*\*\*\*\*\*\*Rescheduling due to extra tuition free week. Lab 3
+assessment: Due 12pm 30th April
 
 ## Instructions for how to complete the first lab
 
@@ -96,7 +99,6 @@ analysis](https://github.com/UWA-SCIE2204-Marine-Systems/Catch-curve/blob/master
 
 Over the coming weeks you will be sent links to instructions on the
 second and third labs which are on marine reserves and biological
-oceanography
-respectively.
+oceanography respectively.
 
 ### Go back to [instructions](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/README.md)

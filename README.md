@@ -10,6 +10,5 @@
 Only use this guide [4-how-to-install-R](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/4-how-to-install-R-on-your-local-computer.md) if ecocloud is not working
 
 
-
 The first practical is on [Catch curve analysis](https://github.com/UWA-SCIE2204-Marine-Systems/Catch-curve/blob/master/CatchCurveMarkdown.md)
 

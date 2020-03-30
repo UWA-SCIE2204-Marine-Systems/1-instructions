@@ -77,7 +77,7 @@ Over the coming weeks you will be sent links to instructions on the second and t
 
 
 
-Go back to README [README](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/README.md)
+Go back to [instructions](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/README.md)
 
 
 

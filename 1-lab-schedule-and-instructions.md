@@ -98,5 +98,5 @@ Over the coming weeks you will be sent links to instructions on the
 second and third labs which are on marine reserves and biological
 oceanography respectively.
 
-Go back to README
-[README](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/README.md)
+Go back to
+[instructions](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/README.md)

@@ -3,7 +3,7 @@ Instructions for Zoom
 Matt Navarro and Tim Langlois
 26/03/2020
 
-## Introduction
+## Schedule
 
 For each lab we will have an online video chat using Zoom during the
 scheduled lab times.
@@ -78,7 +78,7 @@ manageable we need to follow a few guidelines:
 Zoom works best when you have a reasonable internet connection. It will
 work on a mobile hostpot. If you do not have access to a reasonable
 internet connection, and you need help with the exercises, you maybe
-able access Unifi on campus.
+able access Unifi on
+campus.
 
-Go back to README
-[README](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/README.md)
+### Go back to [instructions](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/README.md)

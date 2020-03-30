@@ -85,9 +85,12 @@ The quizzes will be on LMS.
 
 The quiz deadlines are as follows:
 
-Lab 1 assessment: Due 12pm 9th April Lab 2 assessment:
-TBD\*\*\*\*\*\*\*\*\*Rescheduling due to extra tuition free week. Lab 3
-assessment: Due 12pm 30th April
+Lab 1 assessment: Due 12pm 9th April
+
+Lab 2 assessment: TBD\*\*\*\*\*\*\*\*\*Rescheduling due to extra tuition
+free week.
+
+Lab 3 assessment: Due 12pm 30th April
 
 ## Instructions for how to complete the first lab
 

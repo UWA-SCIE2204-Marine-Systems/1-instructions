@@ -6,5 +6,10 @@
 
 [3-how-to-use-ecocloud](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/3-how-to-use-ecocloud.md)
 
+
+Only use this guide if ecocloud is not working
+[4-how-to-install-R](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/4-how-to-install-R-on-your-local-computer.md)
+
+
 The first practical is on [Catch curve analysis](https://github.com/UWA-SCIE2204-Marine-Systems/Catch-curve/blob/master/CatchCurveMarkdown.md)
 

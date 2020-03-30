@@ -22,8 +22,8 @@ Discusion Board under [“Computer
 practicals”](https://lms.uwa.edu.au/webapps/discussionboard/do/forum?action=list_threads&course_id=_51767_1&nav=discussion_board_entry&conf_id=_214217_1&forum_id=_232476_1)
 
 Tim thinks you should be able to complete this entire practical on your
-smart phone - but we recommend a tablet with a keyboard or computer if
-you can access one.
+smart phone using the Chrome browser - but we recommend a tablet with a
+keyboard or computer.
 
 To provide assistance and answer any questions during each lab - we will
 have an online video chat using Zoom during the scheduled lab times.

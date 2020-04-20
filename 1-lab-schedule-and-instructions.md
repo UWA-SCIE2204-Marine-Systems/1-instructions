@@ -39,20 +39,14 @@ To install and learn how to use Zoom - go to
 
   - Lab 1 (Catch curve) Stream C: 3rd April 14-16
 
-  - Lab 2 (Marine reserves) Stream A: TBD \*\*\*\*\*\*\*\*\*rescheduling
-    due to extra tuition free week
+  - Combined Lab 2 (Marine reserves and Lab 3 (Oceanography) Stream A:
+    21st April 9-11
 
-  - Lab 2 (Marine reserves) Stream B: TBD \*\*\*\*\*\*\*\*\*rescheduling
-    due to extra tuition free week
+  - Combined Lab 2 (Marine reserves and Lab 3 (Oceanography) Stream B:
+    22nd April 9-11
 
-  - Lab 2 (Marine reserves) Stream C: TBD \*\*\*\*\*\*\*\*\*rescheduling
-    due to extra tuition free week
-
-  - Lab 3 (Oceanography) Stream c: 21st April 9-11
-
-  - Lab 3 (Oceanography) Stream B: 22nd April 9-11
-
-  - Lab 3 (Oceanography) Stream C: 24th April 14-16
+  - Combined Lab 2 (Marine reserves and Lab 3 (Oceanography) Stream C:
+    24th April 14-16
 
 ### You have two options for completing the labs:
 
@@ -87,21 +81,23 @@ The quiz deadlines are as follows:
 
 Lab 1 assessment: Due 12pm 9th April
 
-Lab 2 assessment: TBD\*\*\*\*\*\*\*\*\*Rescheduling due to extra tuition
-free week.
+Combined Lab 2+3 assessment: Due 12pm 30th April
 
-Lab 3 assessment: Due 12pm 30th April
-
-## Instructions for how to complete the first lab
+## Instructions for how to complete the labs
 
 The first step is to start ecolcoud. Go to
 [How-to-use-ecocloud](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/3-how-to-use-ecocloud.md)
 
-The first practical in on [Catch curve
+First practical in on [Catch curve
 analysis](https://github.com/UWA-SCIE2204-Marine-Systems/Catch-curve/blob/master/CatchCurveMarkdown.md)
 
-Over the coming weeks you will be sent links to instructions on the
-second and third labs which are on marine reserves and biological
-oceanography respectively.
+The second and third practicals are being combined. Both need to be
+completed the week of the 20th of April:
+
+Second practical is on [Marine
+reserves](https://github.com/UWA-SCIE2204-Marine-Systems/No-take-marine-reserves/blob/master/lobster-density-inside-vs-outside-ntmr.md)
+
+Third practical is on [Biological Oceanographic in
+Fisheries](https://github.com/UWA-SCIE2204-Marine-Systems/Biological-oceanography/blob/master/Puerulus-settlement.md)
 
 ### Go back to [instructions](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/README.md)

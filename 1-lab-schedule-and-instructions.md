@@ -40,7 +40,9 @@ To install and learn how to use Zoom - go to
   - Lab 1 (Catch curve) Stream C: 3rd April 14-16
 
   - Combined Lab 2 (Marine reserves and Lab 3 (Oceanography) Stream A:
-    21st April 9-11
+    21st April 9-11 To access the zoom meeting click:
+    [here](https://uwa.zoom.us/j/97110604153?pwd=aFo5Q0lIdndYa0syVTU5SXpJVktNUT09)
+    You will need to enter the meeting password which is “scie”
 
   - Combined Lab 2 (Marine reserves and Lab 3 (Oceanography) Stream B:
     22nd April 9-11

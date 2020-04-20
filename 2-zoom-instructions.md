@@ -37,8 +37,18 @@ To acccess the video chat click on the Zoom link corresponding to your
 class:
 
   - Lab 1 Stream A: 31st March 9-11 <https://uwa.zoom.us/j/221032322>
+
   - Lab 1 Stream B: 1 April 9-11 <https://uwa.zoom.us/j/639202405>
+
   - Lab 1 Stream C: 3 April 14-16 <https://uwa.zoom.us/j/280318223>
+
+  - Lab 2 Stream A: 21st April 9-11
+    <https://uwa.zoom.us/j/97110604153?pwd=aFo5Q0lIdndYa0syVTU5SXpJVktNUT09>
+    you will need to enter password “scie”
+
+  - Lab 2 Stream B: 22nd April 9-11  
+
+  - Lab 2 Stream C: 24th April 14-16
 
 (**recommended**) Install Zoom before the lab. This will give you access
 to extra features. You can download Zoom from <https://zoom.us/download>
@@ -78,7 +88,6 @@ manageable we need to follow a few guidelines:
 Zoom works best when you have a reasonable internet connection. It will
 work on a mobile hostpot. If you do not have access to a reasonable
 internet connection, and you need help with the exercises, you maybe
-able access Unifi on
-campus.
+able access Unifi on campus.
 
 ### Go back to [instructions](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/README.md)

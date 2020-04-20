@@ -12,3 +12,8 @@ Only use this guide [4-how-to-install-R](https://github.com/UWA-SCIE2204-Marine-
 
 The first practical is on [Catch curve analysis](https://github.com/UWA-SCIE2204-Marine-Systems/Catch-curve/blob/master/CatchCurveMarkdown.md)
 
+The second and third practicals are being combined. Both need to be completed the week of the 20th of April:
+
+Second practical is on [Marine reserves](https://github.com/UWA-SCIE2204-Marine-Systems/No-take-marine-reserves/blob/master/lobster-density-inside-vs-outside-ntmr.md)
+
+Third practical is on [Biological Oceanographic in Fisheries ](https://github.com/UWA-SCIE2204-Marine-Systems/Biological-oceanography/blob/master/Puerulus-settlement.md)

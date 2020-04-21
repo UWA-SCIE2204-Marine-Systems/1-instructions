@@ -19,13 +19,9 @@ The lab schedule is as follows:
 - Lab 1 (Catch curve) Stream B: 1st April 9-11
 - Lab 1 (Catch curve) Stream C: 3rd April 14-16
 
-- Lab 2 (Marine reserves) Stream A: 7th April 9-11
-- Lab 2 (Marine reserves) Stream B: 8th April 9-11
-- Lab 2 (Marine reserves) Stream C: 9th April 8-10 ******Note that this lab was rescheduled to avoid clash with Good Friday!!!
-
-- Lab 3 (Oceanography) Stream c: 21st April 9-11
-- Lab 3 (Oceanography) Stream B: 22nd April 9-11
-- Lab 3 (Oceanography) Stream C: 24th April 14-16
+- Lab 2 (Marine reserves + Oceanography) Stream A: 21st April 9-11
+- Lab 2 (Marine reserves + Oceanography) Stream B: 22nd April 9-11
+- Lab 2 (Marine reserves + Oceanography) Stream C: 24th April 14-16
 
 
 ## Instructions for video chat during scheduled lab time
@@ -39,8 +35,10 @@ To acccess the video chat click on the Zoom link corresponding to your class:
 - Lab 1 Stream C: 3 April 14-16 <https://uwa.zoom.us/j/280318223>
 
 - Lab 2 Stream A: 21st April 9-11 <https://uwa.zoom.us/j/97110604153?pwd=aFo5Q0lIdndYa0syVTU5SXpJVktNUT09> you will need to enter password "scie"
-- Lab 2 Stream B: 22nd April 9-11  
-- Lab 2 Stream C: 24th April 14-16
+- Lab 2 Stream B: 22nd April 9-11 
+<https://uwa.zoom.us/j/94034784590?pwd=QVZlZDV1d0ZKQjlZeFpCWjVmbWVNUT09>
+you will need to enter password "scie"
+- Lab 2 Stream C: 24th April 14-16 <https://uwa.zoom.us/j/92506808285?pwd=UjkyRE9jQWJ4ZEdaQlRBMmNTbHFsUT09> you will need to enter password "scie"
 
 
 (**recommended**) Install Zoom before the lab. This will give you access to extra features. You can download Zoom from <https://zoom.us/download>

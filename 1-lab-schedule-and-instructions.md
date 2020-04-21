@@ -42,13 +42,17 @@ To install and learn how to use Zoom - go to
   - Combined Lab 2 (Marine reserves and Lab 3 (Oceanography) Stream A:
     21st April 9-11 To access the zoom meeting click:
     [here](https://uwa.zoom.us/j/97110604153?pwd=aFo5Q0lIdndYa0syVTU5SXpJVktNUT09)
-    You will need to enter the meeting password which is “scie”
+    You will need to enter the meeting password which is “scie”.
 
   - Combined Lab 2 (Marine reserves and Lab 3 (Oceanography) Stream B:
-    22nd April 9-11
+    22nd April 9-11 To access the zoom meeting click:
+    [here](https://uwa.zoom.us/j/94034784590?pwd=QVZlZDV1d0ZKQjlZeFpCWjVmbWVNUT09)
+    you will need to enter the meeting password which is “scie”
 
   - Combined Lab 2 (Marine reserves and Lab 3 (Oceanography) Stream C:
-    24th April 14-16
+    24th April 14-16 To access the zoom meeting click:
+    [here](https://uwa.zoom.us/j/92506808285?pwd=UjkyRE9jQWJ4ZEdaQlRBMmNTbHFsUT09)
+    you will need to enter the meeting password which is “scie”
 
 ### You have two options for completing the labs:
 

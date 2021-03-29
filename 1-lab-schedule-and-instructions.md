@@ -38,6 +38,8 @@ The quiz deadlines are as follows:
 
 Lab 1 assessment: Due 12pm 9th April
 
+lab 2 assessment: TBD
+
 ## Instructions for how to complete the labs
 
 The first step is to start ecolcoud. Go to

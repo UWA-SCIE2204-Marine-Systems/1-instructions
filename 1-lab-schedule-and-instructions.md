@@ -5,7 +5,7 @@ Matt Navarro and Tim Langlois
 
 ## Introduction
 
-We are running two computer labs that can be run from home. 
+We are running two computer labs that can be run from home or in person. 
 
 Your main instructor will be Matt Navarro <matthew.navarro@uwa.edu.au>
 with assitance from Tim Langlois.
@@ -23,7 +23,6 @@ Tim thinks you should be able to complete this entire practical on your
 smart phone using the Chrome browser - but we recommend a tablet with a
 keyboard or computer.
 
-
 Even if you chose to complete the lab in your own time you can ask
 questions and get help by starting a thread in the LMS Discussion Board.
 Please post on the unit Discusion Board.
@@ -39,8 +38,6 @@ The quiz deadlines are as follows:
 
 Lab 1 assessment: Due 12pm 9th April
 
-Combined Lab 2+3 assessment: Due 12pm 30th April
-
 ## Instructions for how to complete the labs
 
 The first step is to start ecolcoud. Go to
@@ -49,13 +46,10 @@ The first step is to start ecolcoud. Go to
 First practical in on [Catch curve
 analysis](https://github.com/UWA-SCIE2204-Marine-Systems/Catch-curve/blob/master/CatchCurveMarkdown.md)
 
-The second and third practicals are being combined. Both need to be
-completed the week of the 20th of April:
-
-Second practical is on [Marine
+Part 1 of the second practical is on [Marine
 reserves](https://github.com/UWA-SCIE2204-Marine-Systems/No-take-marine-reserves/blob/master/lobster-density-inside-vs-outside-ntmr.md)
 
-Third practical is on [Biological Oceanographic in
+Part 2 of the second practical  is on [Biological Oceanographic in
 Fisheries](https://github.com/UWA-SCIE2204-Marine-Systems/Biological-oceanography/blob/master/Puerulus-settlement.md)
 
 ### Go back to [instructions](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/README.md)

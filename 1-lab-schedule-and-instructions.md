@@ -41,8 +41,7 @@ Lab 1 assessment: Due 12pm 9th April
 lab 2 assessment: TBD
 
 ## Instructions for how to complete the labs
-
-The first step is to start ecolcoud. Go to
+If you are completing the lab at home on your personal computer you will need to either install R and R studio on your computer, or you can use the online ecocloud server to run R through the internet. If you chose to use ecocloud go to
 [How-to-use-ecocloud](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/3-how-to-use-ecocloud.md)
 
 First practical in on [Catch curve

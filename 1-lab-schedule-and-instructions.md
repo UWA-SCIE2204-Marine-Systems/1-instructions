@@ -5,7 +5,7 @@ Matt Navarro and Tim Langlois
 
 ## Introduction
 
-We are running the three computer labs virtually for SCIE2204.
+We are running two computer labs that can be run from home. 
 
 Your main instructor will be Matt Navarro <matthew.navarro@uwa.edu.au>
 with assitance from Tim Langlois.
@@ -17,69 +17,21 @@ cloud.
 You should all be able to complete these practicals with an internet
 connection from either home, using any web-based device (e.g. a tablet
 or laptop), or university using any available computer. If you are
-having issues accessing a computer please contact Matt via the unit
-Discusion Board under [“Computer
-practicals”](https://lms.uwa.edu.au/webapps/discussionboard/do/forum?action=list_threads&course_id=_51767_1&nav=discussion_board_entry&conf_id=_214217_1&forum_id=_232476_1)
+having issues accessing a computer please contact Matt.
 
 Tim thinks you should be able to complete this entire practical on your
 smart phone using the Chrome browser - but we recommend a tablet with a
 keyboard or computer.
 
-To provide assistance and answer any questions during each lab - we will
-have an online video chat using Zoom during the scheduled lab times.
-
-To install and learn how to use Zoom - go to
-[Zoom\_instructions](https://github.com/UWA-SCIE2204-Marine-Systems/1-instructions/blob/master/2-zoom-instructions.md)
-
-### The lab and Zoom schedule is as follows:
-
-  - Lab 1 (Catch curve) Stream A: 31st March 9-11
-
-  - Lab 1 (Catch curve) Stream B: 1st April 9-11
-
-  - Lab 1 (Catch curve) Stream C: 3rd April 14-16
-
-  - Combined Lab 2 (Marine reserves and Lab 3 (Oceanography) Stream A:
-    21st April 9-11 To access the zoom meeting click:
-    [here](https://uwa.zoom.us/j/97110604153?pwd=aFo5Q0lIdndYa0syVTU5SXpJVktNUT09)
-    You will need to enter the meeting password which is “scie”.
-
-  - Combined Lab 2 (Marine reserves and Lab 3 (Oceanography) Stream B:
-    22nd April 9-11 To access the zoom meeting click:
-    [here](https://uwa.zoom.us/j/94034784590?pwd=QVZlZDV1d0ZKQjlZeFpCWjVmbWVNUT09)
-    you will need to enter the meeting password which is “scie”
-
-  - Combined Lab 2 (Marine reserves and Lab 3 (Oceanography) Stream C:
-    24th April 14-16 To access the zoom meeting click:
-    [here](https://uwa.zoom.us/j/92506808285?pwd=UjkyRE9jQWJ4ZEdaQlRBMmNTbHFsUT09)
-    you will need to enter the meeting password which is “scie”
-
-### You have two options for completing the labs:
-
-1.  You can log in to the video chat at **YOUR** scheduled lab time.
-    **DO NOT SWAP LAB TIMES\!\!\!** If you really need to switch email
-    Matt: <matthew.navarro@uwa.edu.au>
-
-OR
-
-2.  You can complete each lab in your own time **AFTER** 4pm. **BUT**,
-    do not leave it all to the end, as you will miss the assessment
-    deadlines\!
-
-Why 4pm? We are running the labs by remotely accessing computers in the
-Eastern states (we are cloud computing), and we do not want to overload
-them. By 4pm everyone in the East has finished work leaving more room
-for us.
 
 Even if you chose to complete the lab in your own time you can ask
 questions and get help by starting a thread in the LMS Discussion Board.
-Please post on the unit Discusion Board under [“Computer
-practicals”](https://lms.uwa.edu.au/webapps/discussionboard/do/forum?action=list_threads&course_id=_51767_1&nav=discussion_board_entry&conf_id=_214217_1&forum_id=_232476_1)
+Please post on the unit Discusion Board.
 
 ## Assessments
 
-The assesment for each labs will consist of three short multi-choice
-quizzes, one for each lab. They should only take 5 minutes and you
+The assesment for each labs will consist of short multi-choice
+quizzes. They should only take 5 minutes and you
 should complete them **immediately** after you have completed the lab\!
 The quizzes will be on LMS.
 
